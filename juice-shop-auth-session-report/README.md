@@ -19,6 +19,7 @@ Feel free to review the reports to understand authentication and session-related
 
 ## Disclaimer
 This testing was performed in a controlled environment on OWASP Juice Shop (a purposely vulnerable app). Do **not** attempt these tests on unauthorized systems.
+Minor Change in README for PR.
 
 ---
 
